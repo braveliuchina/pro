@@ -1,0 +1,88 @@
+*{margin:0;padding:0;font:14px/28px Arial,"Microsoft Yahei";color:#333;text-decoration:none;}
+
+.mainDiv{width:1000px;overflow:hidden;margin:0 auto;border-top:3px solid #eee}
+.subNav{padding:0 5px;overflow:hidden;line-height:30px;}
+.subNav a:hover{text-decoration:underline}
+
+.ticketDiv{overflow:hidden;}
+.ticketImg{width:277px;height:373px;padding:8px;border:3px solid #eee;float:left;}
+.rightMess{width:680px;overflow:hidden;float:right;}
+.rightMessdl{display:block;overflow:hidden; border-bottom:2px solid #eee;padding-bottom:10px;}
+.rightMessdl dd{display:block;color:#535353}
+.rightMessdl dd span{color:#2f97b4}
+.rightMessdl dd a{background:url(../images/icon_a.png) no-repeat left top;padding-left:25px;}
+.rightMessdl dd a:hover{color:#2f97b4}
+.rightMessdl dd a.xz{background-position: 8px -216px}
+.rightMessdl dd a.cjp{background-position: 8px -325px}
+.rightMessdl dd a.dzp{background-position: 8px -380px}
+.rightMessdl dd a.dzqb{background-position: 8px -434px}
+.rightMessdl dd a.fjf{background-position: 8px -486px}
+.rightMessdl dd a.fqfk{background-position: 8px -1383px}
+.rightMessdl dd a.dress{border:1px solid #ccc;margin-right:5px;background-position:27px -778px;padding:0px 10px 0px 5px}
+
+
+.salePart{overflow:hidden;padding:10px 0px 10px 0px;}
+.salePart span{padding:10px 18px 10px 10px;color:#2F97B4;background-color:#eee;border-bottom:1px solid #eee}
+.listIteam{overflow:hidden;background-color:#eee;margin-top:4px;padding:10px 5px;}
+
+.listIteamDl01,.listIteamDl02{display:block;clear:both;padding:10px 0px}
+.listIteamDl01 dt,.listIteamDl02 dt{float:left;font-size:12px;}
+.listIteamDl01 dd,.listIteamDl02 dd{float:right;width:600px;}
+.listIteamDl01 dd a{display:block;width:100px;line-height:20px;padding:5px;border:1px solid #bbb;overflow:hidden;text-align:center;float:left;margin:0 2px 2px 0px;}
+.listIteamDl01 dd a:hover,.listIteamDl02 dd a:hover{border-color:#2F97B4;color:#2F97B4;}
+.listIteamDl02 dd a{float:left;border:1px solid #bbb;padding:0px 20px;margin:0 2px 2px 0;white-space:nowrap;}
+.listIteamDl02 dd.cart *{float:left;padding:0;margin-right:5px;}
+.listIteamDl02 dd a.add,.listIteamDl02 dd a.low{padding:0px 5px;}
+.listIteamDl02 dd a.det{border:none;text-decoration:underline}
+.nums{width:40px;height:30px;text-align:center;border:none;}
+.buttonCs{display:block;padding:10px 0px 0px 70px;clear:both;}
+.buttonCs input{width:130px;height:34px;background:url(../images/btn_buy.png) no-repeat;text-indent:-9999px;border:none;cursor:pointer}
+.buttonCs input.b-buy02-btns{background-position:-130px 0px}
+.buttonCs input.b-buy01-btns{background-position:0 -34px}
+
+.ticketNote{overflow:hidden;}
+
+.ticketNote a{float:left;background-color:#ccc;padding:10px 20px;margin-right:2px;color:#333333}
+.ticketNote a.now{background-color:#2f97b4;color:white}
+.listDivNote{overflow:hidden;border-top:3px solid #2F97B4;clear:both;padding:10px;}
+.listDivNote
+.imgP{display:block;text-align:center;padding:10px 0px;}
+.iteamTitle{font-weight:700;}
+.noticeP{background:url(../images/new-i1.png) no-repeat left center;padding-left:20px;font-weight:700}
+.noticeText{color:#167f9c;padding-left:20px;}
+.noticeSpan{color:#dda212;padding-left:20px;display:block;}
+.bankList{display:block;padding-left:20px;overflow:hidden;}
+.bankList li{display:block;width:107px;float:left;margin:5px 2px 0px 0px;border:1px solid #ccc;overflow:hidden;}
+.noticeText1{}
+
+
+.flashDiv{text-align:center;padding:10px 0px;}
+.shopping{overflow:hidden;margin-bottom:10px;}
+.shopping_wareListof_head{display: block;font-weight: bold;background: url(../images/shopping_icon_line-08.png) no-repeat left bottom;height: 30px;padding-left: 10px;color: #2f97b4;font-size: 16px;font-weight:normal}
+
+
+.tableCs{border-collapse:collapse;border:1px solid white;}
+.tableCs th{background-color:#c7e0f9;border:1px solid white;}
+.tableCs td{background-color:#f4f9fe;border:1px solid white;}
+
+.shopSubNav{display:block;overflow:hidden;padding-top:10px;text-align:center;}
+.shopSubNav a{padding:10px 20px;background-color:#BBBBBB;}
+.shopSubNav a.shopNow{background-color:#cde3e9;color:#105669;}
+.electTicket{overflow:hidden;background-color:#cde3e9}
+.electInput{overflow:hidden;border-bottom:1px dotted #333333;padding:10px;}
+.electInput input,.electInput img{vertical-align:middle}
+.electInput label{color:#105669;margin-right:10px;font-size:12px;}
+.spanNote{color:#a70c0c;font-size:12px;}
+.electListInput{overflow:hidden;padding-bottom:10px;}
+.electListInput input{width:90%;border:1px solid #eee;height:20px;}
+.pNote{width:80%;margin:0 auto;display:block;border:1px solid red;background-color:#fff8ef;font-size:12px;padding:0px 10px;}
+.payPart{overflow:hidden;text-align:right;}
+.redSpanNode{font-size:17px;color:#920808;font-weight:700;display:block;margin:10px;}
+.submitCs{background:url(../images/i.png) no-repeat scroll 0 -500px;width: 183px;height: 52px;border: medium none;cursor: pointer;}
+
+.pCs{display:block;text-align:right;padding:10px;}
+
+.listIteamDl01 dd a.clickCs{background:url(../images/icon_a.png) no-repeat scroll right -73px;border:1px solid #dda212}
+.listIteamDl02 dd a.clickCs{background:url(../images/icon_a.png) no-repeat scroll right -95px;border:1px solid #dda212}
+
+.imgSpan{display:block;padding:10px;}
